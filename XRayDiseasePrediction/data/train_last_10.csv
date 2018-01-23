@@ -1,0 +1,11 @@
+row_id,age,gender,view_position,image_name,detected
+id_9839,17,M,0,scan_0009839.png,class_6
+id_9841,63,M,0,scan_0009841.png,class_12
+id_9842,87,M,0,scan_0009842.png,class_11
+id_9843,73,M,1,scan_0009843.png,class_7
+id_9844,43,F,1,scan_0009844.png,class_1
+id_9846,28,M,0,scan_0009846.png,class_11
+id_9848,56,M,0,scan_0009848.png,class_11
+id_985,31,M,1,scan_000985.png,class_4
+id_9851,15,M,0,scan_0009851.png,class_6
+id_9853,45,M,1,scan_0009853.png,class_2
